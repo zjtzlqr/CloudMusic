@@ -12,5 +12,5 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="CloudMusic0707-14:23" />
+        android:text="CloudMusic0708-14:23-new" />
 </RelativeLayout>

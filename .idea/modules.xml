@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CloudMusic.iml" filepath="$PROJECT_DIR$/CloudMusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CloudMusic-CloudMusic.iml" filepath="$PROJECT_DIR$/.idea/modules/CloudMusic-CloudMusic.iml" group="CloudMusic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="CloudMusic/app" />
     </modules>
   </component>
 </project>

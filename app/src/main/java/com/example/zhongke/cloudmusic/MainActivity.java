@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void init(){
-        Log.i("zk2021", "dev1-11111");
+        Log.i("zk2021", "dev1-11111-my-other-merge");
     }
 }

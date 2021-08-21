@@ -11,10 +11,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         init();
-
     }
 
     private void init(){
-        Log.i("zk2021", "dev1-11111-other");
+        Log.i("zk2021", "dev1-11111-my-other-merge");
     }
 }

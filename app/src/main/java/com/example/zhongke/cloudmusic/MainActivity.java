@@ -16,10 +16,6 @@ public class MainActivity extends AppCompatActivity {
     private void init(){
         Log.i("zk2021", "20220708");
         Log.i("zk2021", "20220708zkzkzk");
-
-
         Log.i("zk2021", "wyl20220708xiugai");
-        Log.i("zk2021", "20220708zkzkzk");
-
     }
 }

@@ -6,11 +6,17 @@ import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
+    private String value = "3";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         init();
+        Log.i("TAG", "bbb is sstart");
+        String b = null;
+        boolean bbb = value.equals(b);
+        Log.i("TAG", "bbb is " +bbb);
         Log.i("zk2023", "xusha2222222");
     }
 
@@ -18,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
         Log.i("zk2021", "20220708");
         Log.i("zk2021", "20220708zkzkzk");
         Log.i("zk2021", "wyl20220708xiugai");
+
+        Log.i("zk2021", "zijixiugi");
 
         Log.i("zk2023", "xusha2222222");
     }

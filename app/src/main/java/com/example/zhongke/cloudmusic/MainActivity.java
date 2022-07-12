@@ -11,11 +11,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         init();
+        Log.i("zk2023", "xusha2222222");
     }
 
     private void init(){
         Log.i("zk2021", "20220708");
         Log.i("zk2021", "20220708zkzkzk");
         Log.i("zk2021", "wyl20220708xiugai");
+
+        Log.i("zk2023", "xusha2222222");
     }
 }

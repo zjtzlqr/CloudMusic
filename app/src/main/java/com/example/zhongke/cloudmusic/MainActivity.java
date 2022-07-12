@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         String b = null;
         boolean bbb = value.equals(b);
         Log.i("TAG", "bbb is " +bbb);
+        Log.i("zk2023", "xusha2222222");
     }
 
     private void init(){
@@ -25,5 +26,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("zk2021", "wyl20220708xiugai");
 
         Log.i("zk2021", "zijixiugi");
+
+        Log.i("zk2023", "xusha2222222");
     }
 }
